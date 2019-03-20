@@ -10,7 +10,8 @@ class Main extends Component {
                 <h2>About Me</h2><hr className="d-none d-sm-block"/>
                 <h5>Photo of me:</h5>
                 <img src="./asset/images/cvavt.jpg" className="avtimg rounded-circle mx-auto d-block" />
-                <p className="text-justify mt-3">Tôi bắt đầu học lập trình ngay sau kì thi vào Trung học phổ thông. Người chỉ đường dẫn lối cho tôi bắt đầu vào con đường học lập trình là anh trai. Mỗi ngày học một chút, mỗi khi rảnh đọc và tìm hiểu trên internet. Dần dần tôi đã học và hiểu được lập trình là như thế nào và IT (Công nghệ thông tin) đích thực là điều gì. Quyết định học lập trình web trước là của tôi, với mục đích nhanh chóng tìm được công việc và có khả năng tự lo cho bản thân để tiếp tục con đường học về Công nghệ cũng như học tập ở trường. Ước mơ của tôi rất lớn, đầy tham vọng và để đạt được ước mơ ấy tôi nhất định phải nỗ nực!</p>
+                <p className="text-justify mt-3">Tôi bắt đầu học lập trình ngay sau kì thi vào Trung học phổ thông. Người chỉ đường dẫn lối cho tôi bắt đầu vào con đường học lập trình là anh trai. Mỗi ngày học một chút, mỗi khi rảnh đọc và tìm hiểu trên internet. Dần dần tôi đã học và hiểu được lập trình là như thế nào và IT (Công nghệ thông tin) đích thực là điều gì. Quyết định học lập trình web trước là của tôi, với mục đích nhanh chóng tìm được công việc và có khả năng tự lo cho bản thân để tiếp tục con đường học về Công nghệ cũng như học tập ở trường. Ước mơ của tôi rất lớn, 
+                đầy tham vọng và để đạt được ước mơ ấy tôi nhất định phải nỗ lực!</p>
                 <h2>Projects đã hoàn thành</h2><hr className="d-none d-sm-block"/>
                 <p>Đây là những projects mà tôi đã hoàn thành trong quá trình học lập trình.</p>
                 <ul className="nav nav-pills flex-column">
